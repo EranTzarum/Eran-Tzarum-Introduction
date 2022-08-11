@@ -3,6 +3,7 @@ A Second year Computer Science and Mathematics student.
 
 Up until today I have learned to work with JAVA, Python and C# at a high level.
 Acquired skills in Data Structure, OOP, Algorithms, Communication Networks and more..
+
 in both work environments Linux and Windows.
 
 Currently working on my own project, a startup called SmartFrige in conjunction with my studies.
