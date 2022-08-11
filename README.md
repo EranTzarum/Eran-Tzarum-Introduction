@@ -11,6 +11,7 @@ In both operating systems Linux and Windows.
 Currently working on my own project, a startup called SmartFrige in conjunction with my studies.
 
 I’m  👀  for my first student position as Software Engineer.
+
 You can reach me by email at eran.davidtz@gmail.com 📫.
 
 🌱 Feel free to walk around and observe my repositories.
