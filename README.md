@@ -1,5 +1,6 @@
 Hi, I’m Eran David Tzarum ,
 A Second year Computer Science and Mathematics student.
+
 Up until today I have learned to work with JAVA, Python and C# at a high level.
 Acquired skills in Data Structure, OOP, Algorithms, Communication Networks and more..
 in both work environments Linux and Windows.
