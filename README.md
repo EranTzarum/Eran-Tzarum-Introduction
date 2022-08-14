@@ -6,7 +6,7 @@
 
 **Up until today I have learned to work with JAVA , Python and C# at a high level.**
 
-**Acquired skills in Data Structure, OOP , Algorithms , Communication Networks and more..**
+**Acquired skills in Data Structure , OOP , Algorithms  ,  Communication Networks and more..**
 
 **In both operating systems Linux and Windows.**
 
