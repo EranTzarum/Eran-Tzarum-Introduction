@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 
 **Hi, I’m Eran David Tzarum,**
 
