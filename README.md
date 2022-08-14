@@ -2,7 +2,7 @@
 
 **Hi, I’m Eran David Tzarum,**
 
-**A Second year Computer Science and Mathematics student.**
+**A Computer Science and Mathematics student.**
 
 **Up until today I have learned to work with JAVA , Python and C# at a high level.**
 
