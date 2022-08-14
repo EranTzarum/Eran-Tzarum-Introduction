@@ -1,4 +1,4 @@
-Hi, I’m Eran David Tzarum ,
+**Hi, I’m Eran David Tzarum ,
 
 A Second year Computer Science and Mathematics student.
 
@@ -14,4 +14,4 @@ I’m  👀  for my first student position as Software Engineer.
 
 You can reach me by email at eran.davidtz@gmail.com 📫.
 
-🌱 Feel free to walk around and observe my repositories.
+🌱 Feel free to walk around and observe my repositories.**
