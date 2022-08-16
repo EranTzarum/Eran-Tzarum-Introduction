@@ -18,4 +18,4 @@
 
 **🌱 Feel free to walk around and observe my repositories.**
 
-**To see more collaborations and my repositories you can visit @EranDTZ my old Github**
+**To see more collaborations and my repositories you can visit @EranDTZ - https://github.com/EranDTZ my old Github**
